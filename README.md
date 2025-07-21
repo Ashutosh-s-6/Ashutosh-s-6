@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Saini</h1>
-<h3 align="center">2nd year Computer Science Student</h3>
+<h3 align="center">Final year Computer Science Student</h3>
 
 - 📫 How to reach me **ashutoshsaini816@gmail.com**
 
