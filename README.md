@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Saini</h1>
 <h3 align="center">Final year Computer Science Student</h3>
 
-- 📫 How to reach me **ashutoshsaini816@gmail.com**
+- 📫 How to reach me **ashutoshsaini7454@gmail.com**
 
 
 <p align="left">
